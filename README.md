@@ -8,6 +8,8 @@ Each notebook will describe a given concept, and then provide some math examples
 - Differentiation
 - Integration (to-do)
 - Vector Math (to-do)
+- Bayes Theorem (to-do)
+- Timeseries (to-do)
 
 ### Machine Learning Techniques:
 - Line of Equation
@@ -17,4 +19,16 @@ Each notebook will describe a given concept, and then provide some math examples
 - Logistic Regression
 - Decision Trees
 
+### Timeseries Modelling:
+- ARIMA
+- SARIMA
+- SARIMAX
+- LSTM
+
+### Epidemological Modelling:
+
+- SI Modelling
+- SIS Modelling
+- SIR Modelling
+- SIRS Modelling
 
