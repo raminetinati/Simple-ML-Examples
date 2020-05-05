@@ -18,6 +18,7 @@ Each notebook will describe a given concept, and then provide some math examples
 - Linear Regression
 - Logistic Regression
 - Decision Trees
+- Neural Network Basics
 
 ### Timeseries Modelling:
 - ARIMA
